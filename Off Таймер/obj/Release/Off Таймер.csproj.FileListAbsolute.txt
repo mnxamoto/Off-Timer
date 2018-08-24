@@ -1,0 +1,21 @@
+C:\Users\Администратор\Desktop\C#\Off Таймер\Off Таймер\bin\Release\Off Таймер.exe.config
+C:\Users\Администратор\Desktop\C#\Off Таймер\Off Таймер\bin\Release\Off Таймер.exe
+C:\Users\Администратор\Desktop\C#\Off Таймер\Off Таймер\bin\Release\Off Таймер.pdb
+C:\Users\Администратор\Desktop\C#\Off Таймер\Off Таймер\obj\Release\Off Таймер.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\C#\Off Таймер\Off Таймер\obj\Release\Off_Таймер.Form1.resources
+C:\Users\Администратор\Desktop\C#\Off Таймер\Off Таймер\obj\Release\Off_Таймер.Properties.Resources.resources
+C:\Users\Администратор\Desktop\C#\Off Таймер\Off Таймер\obj\Release\Off Таймер.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\C#\Off Таймер\Off Таймер\obj\Release\Off Таймер.exe
+C:\Users\Администратор\Desktop\C#\Off Таймер\Off Таймер\obj\Release\Off Таймер.pdb
+D:\БэКапы\C# (15.04.2016)\Off Таймер\Off Таймер\bin\Release\Off Таймер.exe.config
+D:\БэКапы\C# (15.04.2016)\Off Таймер\Off Таймер\obj\Release\Off Таймер.exe
+D:\БэКапы\C# (15.04.2016)\Off Таймер\Off Таймер\obj\Release\Off Таймер.pdb
+D:\C#\Off Таймер\Off Таймер\bin\Release\Off Таймер.exe.config
+D:\C#\Off Таймер\Off Таймер\obj\Release\Off Таймер.exe
+D:\C#\Off Таймер\Off Таймер\obj\Release\Off Таймер.pdb
+D:\C#\Off Таймер\Off Таймер\obj\Release\Off Таймер.csprojResolveAssemblyReference.cache
+D:\C#\Off Таймер\Off Таймер\obj\Release\Off_Таймер.Form1.resources
+D:\C#\Off Таймер\Off Таймер\obj\Release\Off_Таймер.Properties.Resources.resources
+D:\C#\Off Таймер\Off Таймер\obj\Release\Off Таймер.csproj.GenerateResource.Cache
+D:\C#\Off Таймер\Off Таймер\bin\Release\Off Таймер.exe
+D:\C#\Off Таймер\Off Таймер\bin\Release\Off Таймер.pdb
